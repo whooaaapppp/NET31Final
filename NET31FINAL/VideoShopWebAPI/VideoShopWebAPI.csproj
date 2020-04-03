@@ -11,5 +11,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VideoShop.EFDataAcccess\VideoShop.EFDataAcccess.csproj" />
+    <ProjectReference Include="..\VideoShop.Pocos\VideoShop.Pocos.csproj" />
+  </ItemGroup>
+
 
 </Project>
